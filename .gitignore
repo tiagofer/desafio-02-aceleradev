@@ -3,3 +3,7 @@ output.xml
 stdout.txt
 test_main.py
 modulo_dois
+__pycache__
+.ipynb_checkpoints
+.pytest_cache
+.vscode
